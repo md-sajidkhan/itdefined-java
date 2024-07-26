@@ -1,0 +1,2 @@
+this is 7th file
+this is 2nd line in 7.txt
