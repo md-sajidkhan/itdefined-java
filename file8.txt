@@ -1,3 +1,0 @@
-this is a line from dev
-
-this is the first line from main
