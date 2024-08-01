@@ -1,0 +1,5 @@
+First text merge ``file
+this is second line
+third line
+this is stash line
+this is amend line to check
