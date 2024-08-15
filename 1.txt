@@ -3,4 +3,3 @@ this is second line
 third line
 this is stash line
 this is amend line to check
-this is stash line
