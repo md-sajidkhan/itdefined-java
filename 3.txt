@@ -1,3 +1,4 @@
 ithis is merge conflict from dev
 ithis is merge conflict from main
 this is rebase line
+this is new line from hooks
